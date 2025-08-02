@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r1nsrph.jpeg" group-title="Darts", Sky Sports Darts - 06:00 AM (16/12/24)
-https://fs.fscdn.fun/skysportsf1hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IKD1nmV.jpeg" group-title="NFL", Kansas City Chiefs at Pittsburgh Steelers - 05:00 AM (26/12/24)
-https://fs.anonup.net/nfl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UA4KW9x.jpeg" group-title="NFL", Baltimore Ravens at Houston Texans - 08:30 AM (26/12/24)
-https://fs.anonup.net/nfl/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TW243DG.png" group-title="Wrestling", WWE NXT - 12:00 PM (25/12/24)
-https://fs.fscdn.fun/thecw/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PpejPXY.jpeg" group-title="Wrestling", AEW Dynamite - 12:00 PM (26/12/24)
-https://fs.fscdn.fun/tbs/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7cS8dt.jpeg" group-title="24/7 Streams", ESPN8 "The Ocho"
-https://fs.anonup.net/espn8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 Streams", ESPN
-https://fs.qwertyisaddictedtodxm.pw/espnus247/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4GuxRuF.png" group-title="24/7 Streams", (North) Korean Central Television
-https://tv.nknews.org/tvhls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SzF1kyy.png" group-title="24/7 Streams", Utah Hockey Club
-https://fs.anonup.net/utahhockeyclub/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IzNByBK.jpeg" group-title="24/7 Streams", Argyle TV
-https://fs.anonup.net/argyle/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn2dI6S.jpeg" group-title="24/7 Streams", LaLiga TV
-https://fs.qwertyisaddictedtodxm.pw/laligatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn2dI6S.jpeg" group-title="24/7 Streams", LaLiga Overflow
-https://fs.anonup.net/laligaextra1/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams", 24/7 South Park
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=ZhKTALpCbZXNB155xbw7ww&expires=1754205601&net=MTM1LjIzMi4xNzYuMTYz
+
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams", 24/7 Family Guy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ZhKTALpCbZXNB155xbw7ww&expires=1754205601&net=MTM1LjIzMi4xNzYuMTYz
+
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 Streams", 24/7 The Simpsons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://ppv.to/
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ZhKTALpCbZXNB155xbw7ww&expires=1754205601&net=MTM1LjIzMi4xNzYuMTYz
+
